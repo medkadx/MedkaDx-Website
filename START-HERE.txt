@@ -17,10 +17,8 @@ The website content, navigation, and screenshot viewer work locally.
 The Download now button opens the official browser app guide and explains
 how to add Medka to your phone’s home screen.
 
-Product and screen sources
+Medka web app
 https://api-production-da45.up.railway.app/
-https://eraser-oasis-51492451.figma.site/
-Medka Dx Pitch deck supplied with the project
 
 Design reference
 https://linusbiomena.vercel.app/clearstrand-asd/
