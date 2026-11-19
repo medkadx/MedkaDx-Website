@@ -1,0 +1,26 @@
+مدكا DX
+
+افتح index.html في متصفحك. يبدأ الموقع بالعربية السعودية، ويمكنك
+اختيار English من أعلى أي صفحة للانتقال إلى نسختها الإنجليزية.
+تجد النسخ الإنجليزية في مجلد en. احتفظ بالمجلدات والملفات معًا.
+
+زر «حمّل الآن» يفتح صفحة استخدام تطبيق مدكا الرسمي وطريقة إضافته
+إلى الشاشة الرئيسية للجوال. يشتغل التطبيق من المتصفح.
+
+MEDKA DX
+
+Open index.html in Chrome, Safari, or Edge. Saudi Arabic is the default.
+Use the language switch to open the English version of the same page.
+Keep the HTML pages, en folder, styles.css, site.js, and assets together.
+
+The website content, navigation, and screenshot viewer work locally.
+The Download now button opens the official browser app guide and explains
+how to add Medka to your phone’s home screen.
+
+Product and screen sources
+https://api-production-da45.up.railway.app/
+https://eraser-oasis-51492451.figma.site/
+Medka Dx Pitch deck supplied with the project
+
+Design reference
+https://linusbiomena.vercel.app/clearstrand-asd/
